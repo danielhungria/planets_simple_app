@@ -2,10 +2,7 @@
 
 <h2>Screenshots</h2>
 
-<img src="https://i.imgur.com/NN2StpU.png" height="400"> 
-<img src="https://i.imgur.com/P8zcpeA.png" height="400"> 
-<img src="https://i.imgur.com/P048epE.png" height="400"> 
-<img src="https://i.imgur.com/6OXyvfB.png" height="400"> 
+<img src="https://i.imgur.com/NN2StpU.png" height="400"><img src="https://i.imgur.com/P8zcpeA.png" height="400"><img src="https://i.imgur.com/P048epE.png" height="400"><img src="https://i.imgur.com/6OXyvfB.png" height="400"> 
 
 <p align="left"> 
 
